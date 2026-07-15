@@ -8,12 +8,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+%26+Competitive+Programmer;AI+%26+ML+Enthusiast;Open+Source+Explorer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Explorer;)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
 ## 🚀 About Me
 
 <div align="center">
@@ -43,11 +42,13 @@ I enjoy turning ideas into reality using **modern web tech, AI concepts, and str
 
 ## 🔥 GitHub Stats
 
-<div align="center">
+[//]: # (<div align="center">)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarkBuilds&theme=tokyonight" width="95%"/>
+[//]: # ()
+[//]: # (<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StarkBuilds&theme=tokyonight" width="95%"/>)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
 
 <div align="center">
 
@@ -87,26 +88,10 @@ I enjoy turning ideas into reality using **modern web tech, AI concepts, and str
 
 <div align="center">
 
-### 💫 *"Sometimes you gotta run before you can walk."* — Tony Stark
+[//]: # (### 💫 *"Sometimes you gotta run before you can walk."* — Tony Stark)
 
-**Building Tomorrow's Technology Today**
+[//]: # (**Building Tomorrow's Technology Today**)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=36&fontColor=ffffff&animation=twinkling"/>
 
 </div>
-
-
-<!--
-**StarkBuilds/StarkBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
